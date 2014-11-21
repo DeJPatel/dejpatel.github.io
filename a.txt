@@ -4,3 +4,4 @@ new line created for conflicts
 new line on github
 code in branch 1
 branch 2 added
+branch 3 addded
